@@ -108,7 +108,7 @@ st.write("💻" , "** Developer web | Accedo S.A.S")
 st.write("12/2022 - 06/2023")
 st.write(
     """
-    - ⇒   The development of logic models to facilitate optimal
+    - ⇒   The development of logic models to facilitate optimal management of the application
     - ⇒   Development of components for correct operation
 """
 )

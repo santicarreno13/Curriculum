@@ -11,7 +11,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Santiago Carreño"
 PAGE_ICON = "❣️"
-NAME = "Santiago Carreño"
+NAME = "Santiago Carreño | Software Developer"
 DESCRIPTION = """
 I am a qualified and professional web developer with four
 years of experience in database administration and
@@ -19,13 +19,15 @@ website design. Strong creative and analytical skills.
 My main objective is to provide my best knowledge and to
 be able to learn, know and understand everything that is
 available to me to do
+My main objective is to contribute my best knowledge and be 
+able to learn, know ad understand everything is at my 
+disposal to do
 """
 EMAIL = "santiagoestebancmc@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://co.linkedin.com/in/santiago-esteban-carre%C3%B1o-mancera-05441027a",
     "GitHub": "https://github.com/santicarreno13",
-    "twitter": "https://twitter.com/forwardpaladih8",
-    "Facebook": "https://facebook.com/forwardpaladih8"
+    "twitter": "https://twitter.com/forwardpaladih8"
 }
 
 PROJECTS = {
@@ -80,7 +82,7 @@ st.write(
     - ✔  1 year in Spring Boot in Java
     - ✔  6 months in Laravel with vue and NodeJs
     - ✔  4 years studying the basics of programming
-    - ✔  2 years studying MySQL adn GIt
+    - ✔  2 years studying MySQL adn GIT
 """    
 )
 
@@ -90,9 +92,10 @@ st.write("#")
 st.subheader("Hard Skills")
 st.write(
     """
-    - 👨‍💻  Programming: Java(Spring Boot), PHP(Laravel), SQL, Python, Perl 
-    - 👨‍💻  Programming: Vue, JavaScript, NodeJs, CSS, SASS, GIT
-    - 📊  DataBases: MySQL
+    - 👨‍💻  Programming: Java(Spring Boot), PHP(Laravel), SQL, Python, Perl.
+    - 👨‍💻  Programming: Vue, JavaScript, NodeJs, CSS, SASS, GIT.
+    - 📊  DataBases: MySQL.
+    - 📊  Social Comunication: Technical Support.
 """
 )
 
@@ -112,6 +115,16 @@ st.write(
     - ⇒   Development of components for correct operation
 """
 )
+st.write("#")
+st.write("🗣️" , "** Technical Support | Serdempo")
+st.write("08/2023 - 11/2023")
+st.write(
+    """
+    - ⇒   Technical support
+    - ⇒   Creatin and solving technical problems
+"""
+)
+
 
 # --- STUDY HISTORY ---
 
@@ -133,6 +146,12 @@ st.write("03/2020 - 12/2021")
 
 st.write("💻" , "** Technologist in analysis and desing of information system | SENA **")
 st.write("02/2022 - 06/2023")
+
+# --- 4 ---
+
+st.write("💻" , "** Systems Enginner | Politecnico Gran Colombiano **")
+st.write("06/2023 - Present")
+st.write(" 6 semester ")
 
 # --- PROYECTS & ACCOMPLISHMENTS ---
 
